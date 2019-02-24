@@ -1,2 +1,2 @@
-# coffe
+# coffee
 Simple coffee house site
